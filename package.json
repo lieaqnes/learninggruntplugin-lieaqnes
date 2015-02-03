@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "learning to set up grunt plugin with video",
   "repository": "https://github.com/lieaqnes/learninggruntplugin-lieaqnes",
+  "homepage": "http://lieaqnes.github.io/learninggruntplugin-lieaqnes",
   "author": {
     "name": "Sophia Yin",
     "email": "1002718366@qq.com",
